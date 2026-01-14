@@ -1,6 +1,3 @@
-Here is a comprehensive README.md file for your GitHub repository. It clearly explains the workflow, dependencies, and setup instructions.
-
-Markdown
 
 # Content-Based Image Retrieval (CBIR) System
 
