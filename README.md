@@ -27,6 +27,7 @@ Place your dataset images inside this folder.
 Ensure the images are in .jpg format.
 
 Your directory structure should look like this:
+```text
 
 .
 ├── classes.py
@@ -35,10 +36,12 @@ Your directory structure should look like this:
 ├── Step_3_indexImages.py
 ├── Step_4_benchmark.py
 ├── Step_5_search_image.py
+├── .gitignore
 └── images/
     ├── image001.jpg
     ├── image002.jpg
     └── ...
+```
 ## 🚀 Usage Pipeline
 Run the scripts in the following numerical order to build the system.
 
