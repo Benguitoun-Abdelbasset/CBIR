@@ -1,0 +1,5 @@
+images/
+test_images/
+__pycache__/
+image_db.sqlite
+vocabulary.pkl
